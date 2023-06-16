@@ -47,7 +47,6 @@ public final class MainPage extends ScannerChoice {
                         break;
                     default:
                         break;
-
                 }
             }
             System.err.println("!输入有误!");
